@@ -5,7 +5,7 @@
 
 - Lagi belajar: **Java, Bash**
 
-- ⚡ Fun fact **Katanya sih jago tapi kok error 1 mumet pikirannya :v**
+- Fun fact **Katanya sih jago tapi kok error 1 mumet pikirannya :v**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
