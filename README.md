@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuusaaz&label=Profile%20views&color=0e75b6&style=plastic" alt="yuusaaz" /> </p>
 
-- Lagi belajar: **Java, Bash**
+- Lagi belajar: **Java, Bash, Html, Css, Javascript**
 
 - Fun fact **Katanya sih jago tapi kok error 1 mumet pikirannya :v**
 
